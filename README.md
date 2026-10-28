@@ -1,4 +1,3 @@
-<img width="1933" height="649" alt="Workflow_Screenshot" src="https://github.com/user-attachments/assets/ee63b493-adf9-4a2d-bfd4-f49416ef2d2d" />
 # Multiple-Choice-Lerngenerator
 
 Ein n8n-Workflow, der zu einem frei gewählten Thema Multiple-Choice-Fragen erzeugt und sie direkt im Browser abfragt. Entstanden im Rahmen der Weiterbildung zum KI-Integrationsmanager (IHK).
@@ -61,8 +60,8 @@ flowchart TD
 ## Screenshots
 
 <img width="1933" height="649" alt="Workflow_Screenshot" src="https://github.com/user-attachments/assets/c20fd071-3947-44a4-8fd9-1767d5225403" />
-<img width="922" height="1192" alt="Eingabemaske" src="https://github.com/user-attachments/assets/7f842974-f0fa-4ee7-9af6-eb69e883239f" />
-<img width="928" height="871" alt="Screenshot_gestellte_Frage_im_Workflow" src="https://github.com/user-attachments/assets/4704580e-85eb-4858-9cd7-82e55db80c2b" />
+<img width="870" height="757" alt="Screenshot_gestellte_Frage_im_Workflow" src="https://github.com/user-attachments/assets/7fbd8b46-48c9-4b60-85c5-ca0249313bb5" />
+<img width="919" height="883" alt="Eingabemaske" src="https://github.com/user-attachments/assets/a4c49ded-8a5c-434e-82e9-c351ace2ff2e" />
 
 ## Herausforderungen
 
